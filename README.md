@@ -1,8 +1,10 @@
 # Winium-examples
 Winium.Desktop examples.
-Download and run the Winium driver than the code with TestNG
+Steps to setup the environment:
 
-https://github.com/2gis/Winium.Desktop/releases
+First we need to set up .NET Framework 4.5.1 in our system
+Then go to the following address to download winium.desktop.exe – https://github.com/2gis/Winium.Desktop/releases
+All other libraries we are going to download through maven, https://mvnrepository.com/artifact/com.github.2gis.winium/winium-webdriver/0.1.0-1
 
 Refer to:
 
@@ -14,11 +16,5 @@ https://github.com/2gis/Winium.Desktop/wiki/Finding-Elements
 
 https://github.com/2gis/Winium.Elements/tree/master/java
 
-maven: 
-<!-- https://mvnrepository.com/artifact/com.github.2gis.winium/winium-webdriver -->
-<dependency>
-    <groupId>com.github.2gis.winium</groupId>
-    <artifactId>winium-webdriver</artifactId>
-    <version>0.1.0-1</version>
-</dependency>
+
 
