@@ -20,7 +20,7 @@ https://github.com/2gis/Winium.Elements/tree/master/java
 Windows Application Driver
 Refer to:
 https://github.com/Microsoft/WinAppDriver
-Samples coming soon...
+,Samples coming soon...
 
 # Inspecting UI Elements
 inspect.exe tool
