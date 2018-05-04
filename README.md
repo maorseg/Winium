@@ -20,3 +20,7 @@ https://github.com/2gis/Winium.Elements/tree/master/java
 Windows Application Driver
 Refer to:
 https://github.com/Microsoft/WinAppDriver
+
+# Inspecting UI Elements
+inspect.exe tool
+Inspect is available on MSDN https://msdn.microsoft.com/library/windows/desktop/dd318521(v=vs.85).aspx.
