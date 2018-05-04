@@ -1,4 +1,4 @@
-# Winium-examples
+# Winium
 Winium.Desktop examples.
 Steps to setup the environment:
 
