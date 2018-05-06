@@ -16,14 +16,6 @@ https://github.com/2gis/Winium.Desktop/wiki/Finding-Elements
 
 https://github.com/2gis/Winium.Elements/tree/master/java
 
-# Windows Application Driver
-Windows Application Driver
-Refer to:
-https://github.com/Microsoft/WinAppDriver
-
-https://www.youtube.com/watch?v=Q_HUkWczd34&list=PLEiBaBxmVLi9-Ioe2lys5xpR4S4fUOq7F
-
-https://www.automatetheplanet.com/automate-windows-desktop-apps-winappdriver/
 
 # Inspecting UI Elements
 inspect.exe tool
